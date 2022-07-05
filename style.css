@@ -43,7 +43,8 @@ h2 {
     text-decoration: none;
     padding: 10px 40px;
     background-image: linear-gradient(orange, red);
-    border-radius: 20px
+    border-radius: 20px;
+    margin-bottom: 100px;
 }
 
 .healthy-img-lady {
@@ -52,6 +53,8 @@ h2 {
     padding-top: 8%;
 
 }
+
+
 
 .healthy-new {
     width: 50%;
@@ -68,6 +71,7 @@ h2 {
 
 .life {
     text-align: center;
+    margin-top: 150px;
 }
 
 .box {
@@ -80,12 +84,49 @@ h2 {
     padding: 25px;
 }
 
-.happy {
-    margin-bottom: 200px;
+
+
+
+
+.chance {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 5px 16px gray;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 30px;
 }
 
-.title {
-    display: flex;
-    box-shadow: 100px 50px 10px gray;
-    width: 40%
+.main {
+    margin-left: 10%;
+
+
+
+}
+
+.right {
+    margin-left: 10%;
+
+}
+
+.shot {
+    margin-left: 10%;
+
+}
+
+.last-one {
+    color: white;
+    text-align: center;
+    padding-bottom: 100px;
+    background-color: black;
+    margin-top: 50px;
+}
+
+.live {
+    color: orange;
+}
+
+.little {
+    color: gray;
 }
